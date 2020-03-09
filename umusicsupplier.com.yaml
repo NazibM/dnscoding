@@ -1,0 +1,8 @@
+---
+'':
+  - type: A
+    value: 10.0.0.5
+
+www:
+  - type: A
+    value: 10.0.0.10
