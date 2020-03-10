@@ -7,11 +7,11 @@ www:
   - type: A
     value: 10.0.0.200
 
-octodns:
-  - type: A
-    value: 10.0.10.0
-
 octodns1:
-  - type: A
-    value: 20.0.20.0
+  - type: CNAME
+    value: test01.testing.com
+
+octodns2:
+  - type: CNAME
+    value: test02.testing.com
 
