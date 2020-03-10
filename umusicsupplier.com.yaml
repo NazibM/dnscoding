@@ -1,17 +1,17 @@
 ---
 '':
-  - type: A
-    value: 10.0.0.100
+  type: A
+  value: 10.0.0.100
 
 www:
-  - type: A
-    value: 10.0.0.200
+  type: A
+  value: 10.0.0.200
 
 octodns1:
-  - type: CNAME
-    value: test01.testing.com
+  type: CNAME
+  value: test01.testing.com
 
 octodns2:
-  - type: CNAME
-    value: test02.testing.com
+  type: CNAME
+  value: test02.testing.com
 
