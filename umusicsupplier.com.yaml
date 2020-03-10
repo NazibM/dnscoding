@@ -9,4 +9,9 @@ www:
 
 octodns:
   - type: A
-    value: 10.0.0.10
+    value: 10.0.10.0
+
+dnstest:
+  - type: A
+    value: 20.0.20.0
+
