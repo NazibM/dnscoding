@@ -5,11 +5,11 @@
 
 octodns1:
   type: CNAME
-  value: test01.testing.com
+  value: test01.testing.com.
 
 octodns2:
   type: CNAME
-  value: test02.testing.com
+  value: test02.testing.com.
 
 www:
   type: A
