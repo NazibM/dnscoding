@@ -11,7 +11,7 @@ octodns:
   - type: A
     value: 10.0.10.0
 
-dnstest:
+octodns1:
   - type: A
     value: 20.0.20.0
 
