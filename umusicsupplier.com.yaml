@@ -11,6 +11,10 @@ octodns2:
   type: CNAME
   value: test02.testing.com.
 
+octodns3:
+  type: CNAME
+  value: test03.testing.com.
+
 www:
   type: A
   value: 10.0.0.200
